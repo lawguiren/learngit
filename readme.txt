@@ -3,3 +3,4 @@ git is a free software
 Git has a mutable index called stage. 
 git tracks changes of file
 creating a new branch is quick & simple.
+add merge
